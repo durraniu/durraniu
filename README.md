@@ -11,6 +11,8 @@ By day, I develop shiny apps and do data science at Presage Group. In my free ti
 
 #### Recent Talks and Workshops
 
+- Upcoming ShinyConf 2024 talk: Road Mapping in Real-Time: Harnessing R, Python, and Shiny for Dynamic Visualization
+- Upcoming ShinyConf 2024 talk: Shiny app as a novel assessment tool for pilots in training
 - [A Mini Tour of Open-source tools for Transportation Planning & Engineering](https://umairdurrani.com/teaching#a-mini-tour-of-open-source-tools-for-transportation-planning-engineering) was presented to UWindsor Chapter of Institute of Transportation Engineers.  
 - [Scaling Shiny Apps with Google’s Firebase](https://umairdurrani.com/teaching#scaling-shiny-apps-with-googles-firebase) was presented to the Windsor Google Developers Group.
 - [R workshop on analyzing NGSIM data](https://github.com/durraniu/R_workshop_materials_NGSIM_data)
